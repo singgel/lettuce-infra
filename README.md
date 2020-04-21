@@ -1,6 +1,7 @@
 # lettuce-infra
 metric tracing log
 
+介绍：https://blog.csdn.net/singgel/article/details/105652746
 
 问题：
 线上的redis日志不是很全面，例如：
